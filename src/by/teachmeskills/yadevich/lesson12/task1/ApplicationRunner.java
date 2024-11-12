@@ -12,6 +12,6 @@ public class ApplicationRunner {
         System.out.print("Enter hex code: ");
         String st = sc.nextLine();
 
-        HexValidatorColor.HexValidatorColor(st);
+        HexValidatorColor.hexValidatorColor(st);
     }
 }
